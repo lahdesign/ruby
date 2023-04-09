@@ -54,7 +54,7 @@
     padding-right: .5ch;
 }
 /* MEDIA QUERY FOR MOBILE */
-@media screen and (max-width:1200px){
+@media screen and (max-width:1000px){
     nav {
         padding-left: 0;
      
